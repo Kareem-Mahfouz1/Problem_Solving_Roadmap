@@ -14,10 +14,11 @@ You can choose any programming language to learn. We will be working with C++ as
 * [CPP for beginners](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3)
 * [Adel Nasim](https://www.youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3)
 ### Weeks:
-[Week 1]()
-[Week 2]()
-[Week 3]()
-[Week 4]()
+[Week 1](https://github.com/Kareem-Mahfouz1/Problem_Solving_Roadmap/blob/main/beginner/Week%201.md)
+[Week 2](https://github.com/Kareem-Mahfouz1/Problem_Solving_Roadmap/blob/main/beginner/Week%202.md)
+[Week 3](https://github.com/Kareem-Mahfouz1/Problem_Solving_Roadmap/blob/main/beginner/Week%203.md)
+[Week 4](https://github.com/Kareem-Mahfouz1/Problem_Solving_Roadmap/blob/main/beginner/Week%204.md)
+[Week 5](https://github.com/Kareem-Mahfouz1/Problem_Solving_Roadmap/blob/main/beginner/Week%205.md)
 ### Object Oriented Programming
 Refer to the original roadmap.
 ## Intermediate
