@@ -1,5 +1,5 @@
-# Hashing:
+# Graphs:
 ### Content:
-[Adel Nasim](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)(032)
+[Introduction to Graph Theory](https://www.youtube.com/watch?v=pU5PDOmM1cw&t=3774s)
 ### Tasks:
 To be added later
