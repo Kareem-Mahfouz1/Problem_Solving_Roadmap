@@ -40,6 +40,18 @@ Refer to the original roadmap.
 [Week 13](https://github.com/Kareem-Mahfouz1/Problem_Solving_Roadmap/blob/main/intermediate/Week%2013.md)  
 [Week 14](https://github.com/Kareem-Mahfouz1/Problem_Solving_Roadmap/blob/main/intermediate/Week%2014.md)  
 [Week 15](https://github.com/Kareem-Mahfouz1/Problem_Solving_Roadmap/blob/main/intermediate/Week%2015.md)    
+[Week 16](https://github.com/Kareem-Mahfouz1/Problem_Solving_Roadmap/blob/main/intermediate/Week%2016.md)    
  
 
 ## Advanced
+
+### Algorithms
+
+### Sources:
+* [Adel Nasim](https://www.youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3)
+
+### Weeks:
+[Week 17](https://github.com/Kareem-Mahfouz1/Problem_Solving_Roadmap/blob/main/advanced/Week%2017.md)  
+[Week 18](https://github.com/Kareem-Mahfouz1/Problem_Solving_Roadmap/blob/main/advanced/Week%2018.md)  
+[Week 19](https://github.com/Kareem-Mahfouz1/Problem_Solving_Roadmap/blob/main/advanced/Week%2019.md)  
+[Week 20](https://github.com/Kareem-Mahfouz1/Problem_Solving_Roadmap/blob/main/advanced/Week%2020.md)  
